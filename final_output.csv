@@ -1,0 +1,263 @@
+year,autonomous_community,women_killed,female_population,homicide_rate_100k
+2003,Andalucía,13,3849478,0.338
+2003,Aragón,2,619880,0.323
+2003,Canarias,6,944709,0.635
+2003,Cantabria,1,281381,0.355
+2003,Castilla - La Mancha,2,908125,0.22
+2003,Castilla y León,4,1259469,0.318
+2003,Cataluña,12,3394296,0.354
+2003,Ceuta,1,36536,2.737
+2003,Comunidad Foral de Navarra,1,289219,0.346
+2003,Comunidad de Madrid,5,2958065,0.169
+2003,Comunitat Valenciana,7,2257875,0.31
+2003,Extremadura,1,540013,0.185
+2003,Galicia,5,1426709,0.35
+2003,Illes Balears,4,473113,0.845
+2003,La Rioja,2,143395,1.395
+2003,Principado de Asturias,2,559436,0.358
+2003,Región de Murcia,3,629435,0.477
+2004,Andalucía,19,3887310,0.489
+2004,Aragón,2,628710,0.318
+2004,Canarias,2,954882,0.209
+2004,Cantabria,2,283877,0.705
+2004,Castilla - La Mancha,4,923187,0.433
+2004,Castilla y León,2,1262660,0.158
+2004,Cataluña,11,3446990,0.319
+2004,Comunidad Foral de Navarra,1,292675,0.342
+2004,Comunidad de Madrid,5,2999867,0.167
+2004,Comunitat Valenciana,9,2291492,0.393
+2004,Extremadura,2,540582,0.37
+2004,Galicia,2,1425998,0.14
+2004,Illes Balears,2,476999,0.419
+2004,La Rioja,1,146339,0.683
+2004,País Vasco,4,1079416,0.371
+2004,Región de Murcia,4,642637,0.622
+2005,Andalucía,9,3960194,0.227
+2005,Aragón,4,636879,0.628
+2005,Canarias,6,980050,0.612
+2005,Castilla - La Mancha,2,943691,0.212
+2005,Castilla y León,4,1270399,0.315
+2005,Cataluña,8,3526971,0.227
+2005,Comunidad Foral de Navarra,2,296885,0.674
+2005,Comunidad de Madrid,4,3076425,0.13
+2005,Comunitat Valenciana,6,2360166,0.254
+2005,Galicia,1,1431495,0.07
+2005,Illes Balears,4,490489,0.816
+2005,Melilla,1,32166,3.109
+2005,País Vasco,3,1084321,0.277
+2005,Principado de Asturias,1,560306,0.178
+2005,Región de Murcia,2,658743,0.304
+2006,Andalucía,21,4017107,0.523
+2006,Aragón,1,640812,0.156
+2006,Canarias,4,994439,0.402
+2006,Castilla - La Mancha,4,961394,0.416
+2006,Castilla y León,3,1275862,0.235
+2006,Cataluña,10,3590991,0.278
+2006,Comunidad de Madrid,5,3099529,0.161
+2006,Comunitat Valenciana,8,2412601,0.332
+2006,Extremadura,1,546021,0.183
+2006,Illes Balears,3,499163,0.601
+2006,País Vasco,3,1089835,0.275
+2006,Principado de Asturias,3,560549,0.535
+2006,Región de Murcia,3,673279,0.446
+2007,Andalucía,8,4060218,0.197
+2007,Aragón,2,649659,0.308
+2007,Canarias,6,1010458,0.594
+2007,Cantabria,2,292541,0.684
+2007,Castilla - La Mancha,5,981636,0.509
+2007,Castilla y León,3,1277335,0.235
+2007,Cataluña,12,3632332,0.33
+2007,Comunidad Foral de Navarra,1,303546,0.329
+2007,Comunidad de Madrid,9,3137911,0.287
+2007,Comunitat Valenciana,10,2452867,0.408
+2007,Galicia,5,1435374,0.348
+2007,Illes Balears,1,513057,0.195
+2007,Melilla,1,34232,2.921
+2007,País Vasco,2,1095065,0.183
+2007,Principado de Asturias,2,559570,0.357
+2007,Región de Murcia,2,685791,0.292
+2008,Andalucía,9,4130720,0.218
+2008,Aragón,1,662515,0.151
+2008,Canarias,5,1035831,0.483
+2008,Castilla - La Mancha,3,1009969,0.297
+2008,Castilla y León,6,1287992,0.466
+2008,Cataluña,10,3703050,0.27
+2008,Comunidad Foral de Navarra,3,310095,0.967
+2008,Comunidad de Madrid,11,3230980,0.34
+2008,Comunitat Valenciana,10,2521168,0.397
+2008,Galicia,7,1439901,0.486
+2008,Illes Balears,1,532449,0.188
+2008,La Rioja,2,157159,1.273
+2008,País Vasco,3,1101962,0.272
+2008,Principado de Asturias,1,561847,0.178
+2008,Región de Murcia,4,703110,0.569
+2009,Andalucía,15,4189540,0.358
+2009,Canarias,5,1051356,0.476
+2009,Castilla - La Mancha,1,1029645,0.097
+2009,Castilla y León,1,1291501,0.077
+2009,Cataluña,10,3761655,0.266
+2009,Ceuta,1,38556,2.594
+2009,Comunidad de Madrid,5,3292058,0.152
+2009,Comunitat Valenciana,9,2556777,0.352
+2009,Extremadura,1,554860,0.18
+2009,Galicia,3,1446486,0.207
+2009,Illes Balears,1,544347,0.184
+2009,La Rioja,1,159529,0.627
+2009,País Vasco,2,1109763,0.18
+2009,Región de Murcia,2,714911,0.28
+2010,Andalucía,17,4226119,0.402
+2010,Aragón,2,673918,0.297
+2010,Canarias,7,1059813,0.66
+2010,Castilla - La Mancha,3,1039224,0.289
+2010,Castilla y León,4,1290655,0.31
+2010,Cataluña,12,3787866,0.317
+2010,Comunidad de Madrid,7,3334246,0.21
+2010,Comunitat Valenciana,8,2568757,0.311
+2010,Extremadura,1,557499,0.179
+2010,Galicia,2,1447106,0.138
+2010,Illes Balears,2,550845,0.363
+2010,País Vasco,2,1113631,0.18
+2010,Principado de Asturias,5,563939,0.887
+2010,Región de Murcia,1,723352,0.138
+2011,Andalucía,17,4254468,0.4
+2011,Aragón,2,675007,0.296
+2011,Canarias,3,1065178,0.282
+2011,Castilla - La Mancha,1,1048736,0.095
+2011,Castilla y León,2,1290792,0.155
+2011,Cataluña,9,3807422,0.236
+2011,Comunidad Foral de Navarra,1,321395,0.311
+2011,Comunidad de Madrid,9,3356836,0.268
+2011,Comunitat Valenciana,8,2575410,0.311
+2011,Galicia,3,1445831,0.207
+2011,Illes Balears,1,555537,0.18
+2011,País Vasco,2,1117734,0.179
+2011,Principado de Asturias,2,562916,0.355
+2011,Región de Murcia,2,728488,0.275
+2012,Andalucía,7,4269700,0.164
+2012,Aragón,1,677569,0.148
+2012,Canarias,2,1062104,0.188
+2012,Castilla - La Mancha,4,1052240,0.38
+2012,Castilla y León,2,1284937,0.156
+2012,Cataluña,13,3829280,0.339
+2012,Comunidad de Madrid,6,3368319,0.178
+2012,Comunitat Valenciana,6,2582862,0.232
+2012,Extremadura,1,557806,0.179
+2012,Galicia,4,1438170,0.278
+2012,Illes Balears,2,559348,0.358
+2012,País Vasco,2,1122655,0.178
+2012,Principado de Asturias,1,560940,0.178
+2013,Andalucía,11,4269646,0.258
+2013,Aragón,2,677163,0.295
+2013,Canarias,2,1063377,0.188
+2013,Cantabria,1,303245,0.33
+2013,Castilla - La Mancha,4,1044038,0.383
+2013,Castilla y León,4,1273498,0.314
+2013,Cataluña,4,3828332,0.104
+2013,Comunidad de Madrid,9,3371827,0.267
+2013,Comunitat Valenciana,9,2579276,0.349
+2013,Extremadura,1,555950,0.18
+2013,Galicia,3,1430818,0.21
+2013,Illes Balears,2,557071,0.359
+2013,País Vasco,1,1122936,0.089
+2013,Principado de Asturias,1,556819,0.18
+2014,Andalucía,10,4253604,0.235
+2014,Canarias,1,1058442,0.094
+2014,Castilla y León,3,1262540,0.238
+2014,Cataluña,13,3817163,0.341
+2014,Comunidad de Madrid,7,3354799,0.209
+2014,Comunitat Valenciana,7,2529763,0.277
+2014,Galicia,6,1423038,0.422
+2014,Illes Balears,3,553641,0.542
+2014,Melilla,2,41434,4.827
+2014,País Vasco,3,1122616,0.267
+2015,Andalucía,14,4254511,0.329
+2015,Aragón,1,665160,0.15
+2015,Canarias,3,1057103,0.284
+2015,Cantabria,1,300391,0.333
+2015,Castilla - La Mancha,1,1026518,0.097
+2015,Castilla y León,2,1252436,0.16
+2015,Cataluña,6,3816361,0.157
+2015,Comunidad de Madrid,4,3349974,0.119
+2015,Comunitat Valenciana,11,2519884,0.437
+2015,Extremadura,1,550919,0.182
+2015,Galicia,8,1415293,0.565
+2015,Illes Balears,1,554801,0.18
+2015,País Vasco,3,1123332,0.267
+2015,Principado de Asturias,3,549054,0.546
+2015,Región de Murcia,1,731854,0.137
+2016,Andalucía,5,4248913,0.118
+2016,Aragón,3,661357,0.454
+2016,Canarias,4,1059086,0.378
+2016,Castilla - La Mancha,1,1018909,0.098
+2016,Castilla y León,6,1240744,0.484
+2016,Cataluña,6,3825228,0.157
+2016,Comunidad de Madrid,3,3368365,0.089
+2016,Comunitat Valenciana,6,2511220,0.239
+2016,Extremadura,1,548539,0.182
+2016,Galicia,4,1408716,0.284
+2016,Illes Balears,6,556538,1.078
+2016,Melilla,1,42258,2.366
+2016,País Vasco,1,1123954,0.089
+2016,Principado de Asturias,2,544756,0.367
+2017,Andalucía,7,4245985,0.165
+2017,Canarias,5,1063008,0.47
+2017,Castilla - La Mancha,6,1014718,0.591
+2017,Cataluña,8,3845630,0.208
+2017,Comunidad Foral de Navarra,1,324563,0.308
+2017,Comunidad de Madrid,7,3391662,0.206
+2017,Comunitat Valenciana,8,2505306,0.319
+2017,Extremadura,1,544860,0.184
+2017,Galicia,2,1403947,0.142
+2017,País Vasco,2,1127253,0.177
+2017,Región de Murcia,3,734035,0.409
+2018,Andalucía,12,4250510,0.282
+2018,Aragón,4,663230,0.603
+2018,Canarias,3,1073653,0.279
+2018,Castilla - La Mancha,2,1012608,0.198
+2018,Castilla y León,2,1222801,0.164
+2018,Cataluña,9,3869739,0.233
+2018,Comunidad Foral de Navarra,2,327085,0.611
+2018,Comunidad de Madrid,5,3430207,0.146
+2018,Comunitat Valenciana,2,2517320,0.079
+2018,Galicia,3,1401134,0.214
+2018,Illes Balears,2,567105,0.353
+2018,País Vasco,2,1130338,0.177
+2018,Principado de Asturias,3,537506,0.558
+2018,Región de Murcia,2,738366,0.271
+2019,Andalucía,14,4267073,0.328
+2019,Aragón,1,668597,0.15
+2019,Canarias,9,1087418,0.828
+2019,Cantabria,2,299277,0.668
+2019,Castilla y León,3,1218147,0.246
+2019,Cataluña,8,3905094,0.205
+2019,Comunidad de Madrid,6,3476082,0.173
+2019,Comunitat Valenciana,7,2538427,0.276
+2019,Galicia,3,1400535,0.214
+2019,Illes Balears,1,576703,0.173
+2019,Región de Murcia,1,746283,0.134
+2020,Andalucía,10,4293806,0.233
+2020,Canarias,3,1099767,0.273
+2020,Cantabria,1,300346,0.333
+2020,Castilla - La Mancha,4,1021481,0.392
+2020,Castilla y León,1,1216072,0.082
+2020,Cataluña,8,3953515,0.202
+2020,Comunidad de Madrid,3,3536095,0.085
+2020,Comunitat Valenciana,6,2565232,0.234
+2020,Galicia,4,1401666,0.285
+2020,Illes Balears,3,587245,0.511
+2020,País Vasco,1,1141052,0.088
+2020,Principado de Asturias,1,532718,0.188
+2020,Región de Murcia,2,754552,0.265
+2021,Andalucía,8,4299068,0.186
+2021,Aragón,2,671013,0.298
+2021,Cantabria,1,301129,0.332
+2021,Castilla - La Mancha,1,1023434,0.098
+2021,Castilla y León,3,1210025,0.248
+2021,Cataluña,9,3943531,0.228
+2021,Comunidad Foral de Navarra,1,334072,0.299
+2021,Comunidad de Madrid,7,3521551,0.199
+2021,Comunitat Valenciana,7,2566744,0.273
+2021,Galicia,1,1398344,0.072
+2021,Illes Balears,1,588155,0.17
+2021,País Vasco,2,1137608,0.176
+2021,Principado de Asturias,1,529127,0.189
